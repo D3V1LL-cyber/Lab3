@@ -1,0 +1,20 @@
+D:\egor\LR3\lr3\bin\Debug\lr3.exe.config
+D:\egor\LR3\lr3\bin\Debug\lr3.exe
+D:\egor\LR3\lr3\bin\Debug\lr3.pdb
+D:\egor\LR3\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+D:\egor\LR3\lr3\obj\Debug\lr3.Form1.resources
+D:\egor\LR3\lr3\obj\Debug\lr3.Properties.Resources.resources
+D:\egor\LR3\lr3\obj\Debug\lr3.csproj.GenerateResource.cache
+D:\egor\LR3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+D:\egor\LR3\lr3\obj\Debug\lr3.exe
+D:\egor\LR3\lr3\obj\Debug\lr3.pdb
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\bin\Debug\lr3.exe.config
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\bin\Debug\lr3.exe
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\bin\Debug\lr3.pdb
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.csproj.AssemblyReference.cache
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.Form1.resources
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.Properties.Resources.resources
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.csproj.GenerateResource.cache
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.csproj.CoreCompileInputs.cache
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.exe
+\\Sv02\classwork\П-30\МДК 01.01\Баранов Д\LR3\lr3\obj\Debug\lr3.pdb
